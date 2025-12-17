@@ -69,6 +69,15 @@ A cleaned dataset sourced from Kaggle, used to analyze customer behavior and pur
 
   --Payment methods are evenly used: Credit Card, Debit Card, Cash, PayPal, Venmo, Bank Transfer
 
+**🔧 Suggestions for Improvement (Future Scope)**
+
+--Promote Clothing and Accessories through targeted marketing campaigns and personalized offers
+
+--Ensure flexible and multiple payment options to enhance customer convenience
+
+--Implement seasonal discounts and promotional strategies to increase Outerwear sales
+
+--Utilize positive customer reviews to strengthen brand trust and marketing efforts
 
 # **Contact**
 
